@@ -1,0 +1,32 @@
+
+
+.container{
+    
+}
+.table{
+   width: 100%;
+}
+.th ,td{
+    border: 1px solid red;
+   width: 100px;
+   height: 55px;
+    text-align: center;
+}
+.editbtn{
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.deletbtn{
+    background-color: red;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.input{
+    border: 1px solid #bbb;
+    padding: 10px;
+}
